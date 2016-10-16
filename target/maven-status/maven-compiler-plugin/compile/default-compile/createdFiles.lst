@@ -1,0 +1,5 @@
+cz\marek_b\shopping_list_rest\config\Config.class
+cz\marek_b\shopping_list_rest\dao\ItemDao.class
+cz\marek_b\shopping_list_rest\entity\Item.class
+cz\marek_b\shopping_list_rest\dao\ItemDaoImpl.class
+cz\marek_b\shopping_list_rest\resource\ShoppingListResource.class
